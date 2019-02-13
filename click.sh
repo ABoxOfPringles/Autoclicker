@@ -1,3 +1,5 @@
+# This requires xdotool. R
+# Run apt/pacman/portage/compile that from source first.
 #!/bin/sh
 
 s="${1:-0.005}"
